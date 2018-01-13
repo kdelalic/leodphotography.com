@@ -57,7 +57,7 @@ $(document).ready(function(){
         $('#modalSubscription').modal('toggle')
     });
   // Add smooth scrolling to all links
-  $("a").on('click', function(event) {
+  $("#scrolldownbutton").on('click', function(event) {
 
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {

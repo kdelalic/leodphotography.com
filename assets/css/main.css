@@ -900,3 +900,14 @@ body.dark .fedora {
 	    font-size: 30px !important;
 	}
 }
+
+@media screen and (min-width: 2000px) {
+	.cross p {
+		font-size: 2.5em!important;
+		width: 600px!important;
+	}
+
+	.container {
+		max-width: none;
+	}
+}
