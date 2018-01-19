@@ -1,7 +1,3 @@
-body {
-  background: #313131;
-}
-
 .portfolio {
   margin: 0vh 7vw;
   display: flex;
@@ -67,10 +63,6 @@ body {
 .logo-header {
   z-index: 99;
   color: white;
-}
-
-.fedora {
-  border-color: white;
 }
 
 /* Smartphones (portrait and landscape) ----------- */
